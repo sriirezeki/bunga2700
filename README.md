@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm Bunga!
+🎓 Computer Science Student
+💻 Passionate about Technologies
+🚀 Exploring open-source and building personal projects to grow my skills
+💡 “Code, learn, and build something meaningful.”
 
 <!--
 **bunga2700/bunga2700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
