@@ -3,7 +3,7 @@
 💻 Passionate about Technologies
 🚀 Exploring open-source and building personal projects to grow my skills
 💡 “Code, learn, and build something meaningful.”
-
+keren banget bung!!
 <!--
 **bunga2700/bunga2700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
